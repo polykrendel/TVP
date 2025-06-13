@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Uberd\\source\\repos\\TVP_9_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0087F6C-91FC-40BB-A7E8-872F5CB92843}|TVP_9_1\\TVP_9_1.vcxproj|C:\\Users\\Uberd\\source\\repos\\TVP_9_1\\TVP_9_1\\TVP_9_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0087F6C-91FC-40BB-A7E8-872F5CB92843}|TVP_9_1\\TVP_9_1.vcxproj|solutionrelative:TVP_9_1\\TVP_9_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TVP_9_1.cpp",
+              "DocumentMoniker": "C:\\Users\\Uberd\\source\\repos\\TVP_9_1\\TVP_9_1\\TVP_9_1.cpp",
+              "RelativeDocumentMoniker": "TVP_9_1\\TVP_9_1.cpp",
+              "ToolTip": "C:\\Users\\Uberd\\source\\repos\\TVP_9_1\\TVP_9_1\\TVP_9_1.cpp",
+              "RelativeToolTip": "TVP_9_1\\TVP_9_1.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T18:37:00.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

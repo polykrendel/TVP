@@ -1,0 +1,3 @@
+﻿  TVP_4.cpp
+C:\Users\Uberd\source\repos\TVP_4\TVP_4\TVP_4.cpp(24,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  TVP_4.vcxproj -> C:\Users\Uberd\source\repos\TVP_4\x64\Debug\TVP_4.exe

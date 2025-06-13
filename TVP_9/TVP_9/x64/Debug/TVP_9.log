@@ -1,0 +1,11 @@
+﻿  TVP_9.cpp
+C:\bruh\streebog-hashing\include\streebog.hpp(19,29): warning C4554: "|": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  (компиляция исходного файла "TVP_9.cpp")
+  
+C:\bruh\streebog-hashing\include\streebog.hpp(111,23): warning C4267: инициализация: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+  (компиляция исходного файла "TVP_9.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1391,5): warning MSB8012: TargetPath(C:\Users\Uberd\source\repos\TVP_9\x64\Debug\TVP_9.exe) не соответствует значению свойства выходного файла () для Linker. Это может привести к неправильной сборке проекта. Чтобы исправить это, убедитесь, что значения свойств $(OutDir), $(TargetName) и $(TargetExt) соответствуют значению, указанному в %(Link.OutputFile).
+  TVP_9.vcxproj -> C:\Users\Uberd\source\repos\TVP_9\x64\Debug\TVP_9.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

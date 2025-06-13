@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Uberd\\source\\repos\\TVP_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33694E94-49BB-4938-8635-61D677BCED2D}|TVP_2\\TVP_2.vcxproj|C:\\Users\\Uberd\\source\\repos\\TVP_2\\TVP_2\\TVP_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33694E94-49BB-4938-8635-61D677BCED2D}|TVP_2\\TVP_2.vcxproj|solutionrelative:TVP_2\\TVP_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TVP_2.cpp",
+              "DocumentMoniker": "C:\\Users\\Uberd\\source\\repos\\TVP_2\\TVP_2\\TVP_2.cpp",
+              "RelativeDocumentMoniker": "TVP_2\\TVP_2.cpp",
+              "ToolTip": "C:\\Users\\Uberd\\source\\repos\\TVP_2\\TVP_2\\TVP_2.cpp",
+              "RelativeToolTip": "TVP_2\\TVP_2.cpp",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-16T06:29:37.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
